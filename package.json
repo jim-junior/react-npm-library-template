@@ -1,0 +1,32 @@
+{
+	"name": "react-library",
+	"version": "1.0.0",
+	"description": "your description",
+	"main": "dist/index.cjs.js",
+	"scripts": {
+		"build": "rollup -c"
+	},
+	"peerDependencies": {
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1"
+	},
+	"dependencies": {
+		"@babel/runtime": "^7.12.5"
+	},
+	"keywords": [
+		"react",
+		"keywords"
+	],
+	"author": "Your name",
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/cli": "^7.12.10",
+		"@babel/core": "^7.12.10",
+		"@babel/plugin-transform-runtime": "^7.12.10",
+		"@babel/preset-env": "^7.12.11",
+		"@babel/preset-react": "^7.12.10",
+		"@rollup/plugin-babel": "^5.2.2",
+		"rollup-plugin-sourcemaps": "^0.6.3",
+		"rollup-plugin-styles": "^3.12.2"
+	}
+}
