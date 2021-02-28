@@ -1,17 +1,3 @@
----
-slug: how-to-create-an-npm-library-from-react-component
-title: How to create an npm library from react components 
-author: Beingana Jim Junior
-description: How to create an npm library from react components 
-keywords:
-    - react
-    - npm
-    - babel
-    - react library
-    - react components
-    - rollup
-    - Beingana Jim Junior
----
 
 In this tutorial i will be showing you how to create an npm library that is composed of react component. This will definetly help you incase you want to reuse code in multiple projects or if you just want to create your own library.
 
